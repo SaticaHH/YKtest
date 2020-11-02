@@ -27,4 +27,3 @@ function binarySearch($file, $search_value)
     }
     return 'undef';
 }
-}
